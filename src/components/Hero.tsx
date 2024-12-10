@@ -1,5 +1,5 @@
-import React from 'react';
-import { ArrowRight, Code, Sparkles, Users } from 'lucide-react';
+
+import { ArrowRight} from 'lucide-react';
 
 export function Hero() {
   return (
