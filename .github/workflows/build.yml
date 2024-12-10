@@ -64,3 +64,4 @@ jobs:
         with:
           personal_token: ${{ secrets.ACTIONS_PAT }}
           publish_dir: ./dist
+          publish_branch: gh-pages
